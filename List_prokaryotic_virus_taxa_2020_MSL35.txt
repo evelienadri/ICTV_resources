@@ -1,0 +1,67 @@
+Realm	Kingdom	Phylum	Class	Order	Family	Host	Remarks
+Duplodnaviria	Heunggongvirae	Uroviricota					taxa below Uroviricota = prokaryotic virus
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Ackermannviridae	bacteria	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Autographiviridae	bacteria	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Chaseviridae	bacteria	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Demerecviridae	bacteria	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Drexlerviridae	bacteria	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Herelleviridae	bacteria	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Myoviridae	"bacteria, archaea"	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Podoviridae	bacteria	
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Siphoviridae	bacteria	
+Monodnaviria	Loebvirae					bacteria	taxa below Loebvirae = bacterial virus
+Monodnaviria	Loebvirae	Hofneiviricota	Faserviricetes	Tubulavirales	Inoviridae	bacteria	
+Monodnaviria	Loebvirae	Hofneiviricota	Faserviricetes	Tubulavirales	Plectroviridae	bacteria	
+Monodnaviria	Sangervirae					bacteria	taxa below Sangervirae = bacterial virus
+Monodnaviria	Sangervirae	Phixviricota	Malgrandaviricetes	Petitvirales	Microviridae	bacteria	
+Monodnaviria	Trapavirae					archaea	taxa below Trapavirae = archaeal virus
+Monodnaviria	Trapavirae	Saleviricota	Huolimaviricetes	Haloruvirales	Pleolipoviridae	archaea	
+Riboviria	Orthornavirae	Duplornaviricota	Vidaverviricetes			bacteria	taxa below Vidaverviricetes = bacterial virus
+Riboviria	Orthornavirae	Duplornaviricota	Vidaverviricetes	Mindivirales	Cystoviridae	bacteria	
+Riboviria	Orthornavirae	Lenarviricota	Allassoviricetes			bacteria	taxa below Allassoviricetes = bacterial virus
+Riboviria	Orthornavirae	Lenarviricota	Allassoviricetes	Levivirales	Leviviridae	bacteria	
+Riboviria	Orthornavirae	Pisuviricota	Duplopiviricetes	Durnavirales	Picobirnaviridae	bacteria?	"Picobirnaviridae bioinformatically predicted to be phage, not proven"
+Varidnaviria	Bamfordvirae	Preplasmiviricota	Tectiliviricetes	Belfryvirales	Turriviridae	archaea	
+Varidnaviria	Bamfordvirae	Preplasmiviricota	Tectiliviricetes	Kalamavirales	Tectiviridae	bacteria 	
+Varidnaviria	Bamfordvirae	Preplasmiviricota	Tectiliviricetes	Vinavirales	Corticoviridae	bacteria 	
+Varidnaviria	Helvetiavirae	Dividoviricota	Laserviricetes	Halopanivirales	Sphaerolipoviridae	"bacteria, archaea"	will be split in bacterial and archaeal families
+unassigned	unassigned	unassigned	unassigned	Ligamenvirales	Lipothrixviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	Ligamenvirales	Rudiviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Ampullaviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Bicaudaviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Clavaviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Finnlakeviridae	bacteria	
+unassigned	unassigned	unassigned	unassigned	unassigned	Fuselloviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Globuloviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Guttaviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Halspiviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Ovaliviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Plasmaviridae	bacteria	
+unassigned	unassigned	unassigned	unassigned	unassigned	Portogloboviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Spiraviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Thaspiviridae	archaea	
+unassigned	unassigned	unassigned	unassigned	unassigned	Tristromaviridae	archaea	
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
