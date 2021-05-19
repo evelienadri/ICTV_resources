@@ -1,0 +1,82 @@
+Realm	Kingdom	Phylum	Class	Order	Family	Known hosts	Remarks		
+Adnaviria							all current members of realm Adnaviria archaeal viruses		
+Adnaviria	Zilligvirae	Taleaviricota	Tokiviricetes	Ligamenvirales	Lipothrixviridae	archaea			
+Adnaviria	Zilligvirae	Taleaviricota	Tokiviricetes	Ligamenvirales	Rudiviridae	archaea			
+Adnaviria	Zilligvirae	Taleaviricota	Tokiviricetes	Primavirales	Tristromaviridae				
+Duplodnaviria	Heunggongvirae	Uroviricota					all current member of phylum Uroviricota prokaryotic viruses		
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Ackermannviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Autographiviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Chaseviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Demerecviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Drexlerviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Guelinviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Herelleviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Myoviridae	"bacteria, archaea"			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Podoviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Rountreeviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Salasmaviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Schitoviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Siphoviridae	bacteria			
+Duplodnaviria	Heunggongvirae	Uroviricota	Caudoviricetes	Caudovirales	Zobellviridae	bacteria			
+Monodnaviria	Loebvirae						all current members of kingdom Loebvirae bacterial viruses		
+Monodnaviria	Loebvirae	Hofneiviricota	Faserviricetes	Tubulavirales	Inoviridae	bacteria			
+Monodnaviria	Loebvirae	Hofneiviricota	Faserviricetes	Tubulavirales	Paulinoviridae	bacteria			
+Monodnaviria	Loebvirae	Hofneiviricota	Faserviricetes	Tubulavirales	Plectroviridae	bacteria			
+Monodnaviria	Sangervirae						all current members of kingdom Sangervirae bacterial viruses		
+Monodnaviria	Sangervirae	Phixviricota	Malgrandaviricetes	Petitvirales	Microviridae	bacteria			
+Monodnaviria	Trapavirae	Saleviricota	Huolimaviricetes	Haloruvirales	Pleolipoviridae	archaea	all current members of kingdom Trapavirae archaeal viruses		
+Riboviria	Orthornavirae	Duplornaviricota	Vidaverviricetes				all current members of class Vidaverviricetes bacterial viruses		
+Riboviria	Orthornavirae	Duplornaviricota	Vidaverviricetes	Mindivirales	Cystoviridae	bacteria			
+Riboviria	Orthornavirae	Lenarviricota	Leviviricetes				all current members of class Leviviricetes predicted to be bacterial viruses		
+Riboviria	Orthornavirae	Lenarviricota	Leviviricetes	Norzivirales	Atkinsviridae	bacteria			
+Riboviria	Orthornavirae	Lenarviricota	Leviviricetes	Norzivirales	Duinviridae	bacteria			
+Riboviria	Orthornavirae	Lenarviricota	Leviviricetes	Norzivirales	Fiersviridae	bacteria			
+Riboviria	Orthornavirae	Lenarviricota	Leviviricetes	Norzivirales	Solspiviridae	bacteria			
+Riboviria	Orthornavirae	Lenarviricota	Leviviricetes	Timlovirales	Blumeviridae	bacteria			
+Riboviria	Orthornavirae	Lenarviricota	Leviviricetes	Timlovirales	Steitzviridae	bacteria			
+Riboviria	Orthornavirae	Pisuviricota	Duplopiviricetes	Durnavirales	Picobirnaviridae	bacteria?	"Picobirnaviridae bioinformatically predicted to be phage, not proven"		
+Varidnaviria	Bamfordvirae	Preplasmiviricota	Tectiliviricetes	Belfryvirales	Turriviridae	archaea			
+Varidnaviria	Bamfordvirae	Preplasmiviricota	Tectiliviricetes	Kalamavirales	Tectiviridae	bacteria 			
+Varidnaviria	Bamfordvirae	Preplasmiviricota	Tectiliviricetes	Vinavirales	Corticoviridae	bacteria 			
+Varidnaviria	Bamfordvirae	Preplasmiviricota	Tectiliviricetes		Autolykiviridae	bacteria			
+Varidnaviria	Helvetiavirae	Dividoviricota	Laserviricetes	Halopanivirales	Matshushitaviridae	bacteria			
+Varidnaviria	Helvetiavirae	Dividoviricota	Laserviricetes	Halopanivirales	Simuloviridae	archaea			
+Varidnaviria	Helvetiavirae	Dividoviricota	Laserviricetes	Halopanivirales	Sphaerolipoviridae	archaea			
+					Ampullaviridae	archaea			
+					Bicaudaviridae	archaea			
+					Clavaviridae	archaea			
+					Finnlakeviridae	bacteria			
+					Fuselloviridae	archaea			
+					Globuloviridae	archaea			
+					Guttaviridae	archaea			
+					Halspiviridae	archaea			
+					Ovaliviridae	archaea			
+					Plasmaviridae	bacteria			
+					Portogloboviridae	archaea			
+					Spiraviridae	archaea			
+					Thaspiviridae	archaea			
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
